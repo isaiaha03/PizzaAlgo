@@ -1,2 +1,5 @@
 1. Decide which business to order from
+1a. If business is closed, pick a new one
 2. Decide which type of pizza to order
+3. Call the business to order the pizza
+4. If they send the wrong order call again to let them know
